@@ -58,3 +58,13 @@ With Gradle from repo.spring.io:
 
 Reactor Kafka is [Apache 2.0 licensed](http://www.apache.org/licenses/LICENSE-2.0.html).
 
+TEST
+
+```mermaid
+graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> Cx{ Let me think}
+Cx -->|One| D[Laptop]
+Cx-->|Two| E[iPhone]
+Cx -->|Three| F[fa:fa-car Car]
+```
